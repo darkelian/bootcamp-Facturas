@@ -5,7 +5,7 @@
 
 ## Vistas 📸
 <div align="center">
-  <img src="" alt="Vista 1">
+  <img src="https://github.com/darkelian/bootcamp-Facturas/blob/main/facturas/src/assets/image.png" alt="Vista 1">
 </div>
 
 ## Autor:
